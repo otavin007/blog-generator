@@ -17,7 +17,7 @@ export const NovoPost = () => {
   };
 
   return(
-    <div className={"w-screen h-screen  bg-[#CAE0E6]"}>
+    <div className={"min-w-screen w-full h-screen  bg-[#CAE0E6]"}>
       <HeaderNB label={"NOVO POST - ADM"}/>
 
       <div>
